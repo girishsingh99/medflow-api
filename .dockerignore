@@ -1,0 +1,12 @@
+.git
+.venv
+.idea
+.vscode
+**/__pycache__
+*.py[oc]
+.pytest_cache
+.ruff_cache
+staticfiles
+db.sqlite3
+celerybeat-schedule*
+.env
